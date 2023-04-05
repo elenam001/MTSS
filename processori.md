@@ -1,5 +1,5 @@
 2009099
 2000556
-
-- [intel i7evo]
-- [intel i5]
+# Processori
+- Intel i7evo
+- Intel i5
